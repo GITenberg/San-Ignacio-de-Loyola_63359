@@ -1,0 +1,31 @@
+_repo: San-Ignacio-de-Loyola_63359
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Vásquez Camarasa, Enrique
+    aliases:
+    - Camarasa, Enrique Vasquez
+    - Camarasa, Enrique Vásquez
+    gutenberg_agent_id: '52401'
+    url: http://www.gutenberg.org/2009/agents/52401
+creator:
+  author:
+    agent_name: Marcos, Benjamín
+    alias: Marcos, Benjamin
+    gutenberg_agent_id: '52400'
+    url: http://www.gutenberg.org/2009/agents/52400
+description: ''
+gutenberg_issued: '2020-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63359'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Ignatius, of Loyola, Saint, 1491-1556'
+- GITenberg
+title: San Ignacio de Loyola
+url: http://www.gutenberg.org/ebooks/63359
