@@ -1,5 +1,5 @@
 _repo: San-Ignacio-de-Loyola_63359
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Vásquez Camarasa, Enrique
@@ -8,6 +8,9 @@ contributor:
     - Camarasa, Enrique Vásquez
     gutenberg_agent_id: '52401'
     url: http://www.gutenberg.org/2009/agents/52401
+covers:
+- cover_type: archival
+  image_path: 63359-h/images/cover.jpg
 creator:
   author:
     agent_name: Marcos, Benjamín
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '52400'
     url: http://www.gutenberg.org/2009/agents/52400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63359#San-Ignacio-de-Loyola
 gutenberg_issued: '2020-10-02'
 gutenberg_type: Text
 identifiers:
